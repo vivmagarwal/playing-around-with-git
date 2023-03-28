@@ -1,3 +1,5 @@
+# Setting up the project locally
+
 ## create a new repository on the command line
 
 ```
