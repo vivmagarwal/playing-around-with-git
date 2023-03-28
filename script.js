@@ -13,3 +13,7 @@ function divide(a, b) {
 function mul(a,b) {
   return a * b;
 }  
+
+function sqr(a) {
+  return a * a;
+}  
