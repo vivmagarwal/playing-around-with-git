@@ -17,3 +17,7 @@ function mul(a,b) {
 function sqr(a) {
   return a * a;
 }  
+
+function sqRt(a) {
+  return Math.sqrt(a);
+}
